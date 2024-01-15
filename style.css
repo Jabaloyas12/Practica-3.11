@@ -1,0 +1,38 @@
+h1.A{
+    background-color: black;
+    color: gold;
+}
+
+img.B{
+    position: relative;
+    left: 100px;
+}
+
+img.C{
+    position: relative;
+    left: 100px;
+}
+
+img.D{
+    position: relative;
+    left: 100px;
+}
+
+img.E{
+    position: relative;
+    left: 100px;
+}
+body.F{
+    background-color: rgb(255, 115, 0);
+}
+div.formulario{
+    background-color: yellow;
+}
+a.espacio{
+    position: relative;
+    left: 900px;
+}
+a.espa{
+    position: relative;
+    left: 1600px;  
+}
